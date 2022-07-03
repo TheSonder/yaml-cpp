@@ -1,3 +1,13 @@
 build/
 /tags
 /bazel-*
+
+#add sonder
+bin/
+bin-int/
+
+#Vs Sulution files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
